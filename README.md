@@ -53,6 +53,8 @@ The main objective of this project is to:
 
 ## 📷 Dashboard Preview
 
+<img width="1906" height="979" alt="image" src="https://github.com/user-attachments/assets/8dbf9362-7581-476b-bbd4-3f93c65225e8" />
+
 
 ## 💡 Skills Demonstrated
 
@@ -72,8 +74,6 @@ The main objective of this project is to:
 - Power BI Dashboard (.pbix)
 - Dashboard Screenshots
 - README Documentation
-
-<img width="1906" height="979" alt="image" src="https://github.com/user-attachments/assets/8dbf9362-7581-476b-bbd4-3f93c65225e8" />
 
 
 ## 🚀 Future Improvements
