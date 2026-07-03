@@ -92,5 +92,3 @@ The main objective of this project is to:
 📧 Email: parthasaradhitenugu@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/parthasaradhi-tenugu-69321540b/
-
-🐙 GitHub: 
